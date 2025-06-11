@@ -1,7 +1,5 @@
 # ¡Hola! Soy Iram Alvarez Rocha 👋
 
-<img src="https://raw.githubusercontent.com/iram-rocha/iram-rocha/main/profile-picture.png" alt="Iram Alvarez Rocha" width="200" align="right"/>
-
 Soy un **Desarrollador Full Stack** apasionado por construir soluciones tecnológicas eficientes y robustas. [cite_start]Con más de 3 años de experiencia, me especializo en el ecosistema de **Microsoft**, principalmente con **.NET, C# y SQL Server**. 
 
 [cite_start]Actualmente, trabajo como desarrollador en la Dirección General de Tecnologías y Desarrollo Digital de la **Universidad Autónoma de Nuevo León**, donde desarrollo y doy soporte a sistemas clave para la institución.  [cite_start]Me motiva la resolución de problemas complejos, el aprendizaje continuo y la implementación de tecnologías emergentes en nuevos proyectos. 
@@ -26,9 +24,9 @@ Soy un **Desarrollador Full Stack** apasionado por construir soluciones tecnoló
 
 - **Lenguajes:** C#, VB.NET, JavaScript, HTML, CSS 
 - **Frameworks:** .NET Framework, .NET 7 o superior, Entity Framework, Bootstrap, Tailwind 
-- Frontend:** React (nivel intermedio - proyectos personales) 
-- Bases de Datos:** SQL Server, MySQL, T-SQL 
-- Herramientas y Otros:** Git, GitHub, PowerBI, Excel, Creación de APIs REST, LINQ 
+- **Frontend:** React (nivel intermedio - proyectos personales) 
+- **Bases de Datos:** SQL Server, MySQL, T-SQL 
+- **Herramientas y Otros:** Git, GitHub, PowerBI, Excel, Creación de APIs REST, LINQ 
 
 ---
 
@@ -47,5 +45,4 @@ Soy un **Desarrollador Full Stack** apasionado por construir soluciones tecnoló
 
 <p align="left">
 <a href="https://linkedin.com/in/iram-rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iram-rocha" height="30" width="40" /></a>
-<a href="mailto:iram.alvarezrch@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="iram.alvarezrch@gmail.com" height="30" width="40" /></a>
 </p>

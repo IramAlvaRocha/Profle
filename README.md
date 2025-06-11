@@ -2,13 +2,13 @@
 
 Soy un **Desarrollador Full Stack** apasionado por construir soluciones tecnológicas eficientes y robustas. [cite_start]Con más de 3 años de experiencia, me especializo en el ecosistema de **Microsoft**, principalmente con **.NET, C# y SQL Server**. 
 
-[cite_start]Actualmente, trabajo como desarrollador en la Dirección General de Tecnologías y Desarrollo Digital de la **Universidad Autónoma de Nuevo León**, donde desarrollo y doy soporte a sistemas clave para la institución.  [cite_start]Me motiva la resolución de problemas complejos, el aprendizaje continuo y la implementación de tecnologías emergentes en nuevos proyectos. 
+Actualmente, trabajo como desarrollador en la Dirección General de Tecnologías y Desarrollo Digital de la **Universidad Autónoma de Nuevo León**, donde desarrollo y doy soporte a sistemas clave para la institución.  [cite_start]Me motiva la resolución de problemas complejos, el aprendizaje continuo y la implementación de tecnologías emergentes en nuevos proyectos. 
 
 - 👨‍💻 **Desarrollador .NET** con experiencia en sistemas web.
 - 🎓 **Ingeniero Administrador de Sistemas** por la UANL.
-- [cite_start]🚀 Apasionado por la digitalización de procesos y la reducción de tiempos administrativos a través de la tecnología. 
-- [cite_start]🌱 Siempre aprendiendo, actualmente explorando más sobre React en proyectos personales. 
-- [cite_start]🇲🇽 Vivo en **Escobedo, Nuevo León, México**. 
+- 🚀 Apasionado por la digitalización de procesos y la reducción de tiempos administrativos a través de la tecnología. 
+- 🌱 Siempre aprendiendo, actualmente explorando más sobre React en proyectos personales. 
+- 🇲🇽 Vivo en **Escobedo, Nuevo León, México**. 
 
 ---
 

@@ -24,11 +24,11 @@ Soy un **Desarrollador Full Stack** apasionado por construir soluciones tecnoló
   </a>
 </p>
 
--   [cite_start]**Lenguajes:** C#, VB.NET, JavaScript, HTML, CSS 
--   [cite_start]**Frameworks:** .NET Framework, .NET 7+, Entity Framework 
--   [cite_start]**Frontend:** React (intermedio), Bootstrap, Tailwind CSS 
--   [cite_start]**Bases de Datos:** SQL Server, MySQL, T-SQL 
--   [cite_start]**Herramientas y Otros:** Git, GitHub, Power BI, Creación de APIs REST, LINQ 
+- **Lenguajes:** C#, VB.NET, JavaScript, HTML, CSS 
+- [cite_start]**Frameworks:** .NET Framework, .NET 7 o superior, Entity Framework, Bootstrap, Tailwind 
+- [cite_start]**Frontend:** React (nivel intermedio - proyectos personales) 
+- [cite_start]**Bases de Datos:** SQL Server, MySQL, T-SQL 
+- [cite_start]**Herramientas y Otros:** Git, GitHub, PowerBI, Excel, Creación de APIs REST, LINQ 
 
 ---
 
@@ -38,15 +38,6 @@ Soy un **Desarrollador Full Stack** apasionado por construir soluciones tecnoló
 -   **Descripción:** Aplicación de escritorio para la cotización de maquinaria industrial.
 -   [cite_start]**Tecnologías:** Java SE, SQL Server, NetBeans. 
 -   [cite_start]**Rol:** Full Stack Developer. 
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iram-rocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iram-rocha&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 
 ---
 

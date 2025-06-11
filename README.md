@@ -2,7 +2,7 @@
 
 Soy un **Desarrollador Full Stack** apasionado por construir soluciones tecnológicas eficientes y robustas. Con más de 3 años de experiencia, me especializo en el ecosistema de **Microsoft**, principalmente con **.NET, C# y SQL Server**. 
 
-Actualmente, trabajo como desarrollador en la Dirección General de Tecnologías y Desarrollo Digital de la **Universidad Autónoma de Nuevo León**, donde desarrollo y doy soporte a sistemas clave para la institución.  [cite_start]Me motiva la resolución de problemas complejos, el aprendizaje continuo y la implementación de tecnologías emergentes en nuevos proyectos. 
+Actualmente, trabajo como desarrollador en la Dirección General de Tecnologías y Desarrollo Digital de la **Universidad Autónoma de Nuevo León**, donde desarrollo y doy soporte a sistemas clave para la institución. Me motiva la resolución de problemas complejos, el aprendizaje continuo y la implementación de tecnologías emergentes en nuevos proyectos. 
 
 - 👨‍💻 **Desarrollador .NET** con experiencia en sistemas web.
 - 🎓 **Ingeniero Administrador de Sistemas** por la UANL.

@@ -18,17 +18,17 @@ Soy un **Desarrollador Full Stack** apasionado por construir soluciones tecnoló
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,vb,js,html,css,bootstrap,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,tailwind,react" />
     <br>
     <img src="https://skillicons.dev/icons?i=sqlserver,mysql,git,github,powershell,vscode,visualstudio,postman" />
   </a>
 </p>
 
 - **Lenguajes:** C#, VB.NET, JavaScript, HTML, CSS 
-- [cite_start]**Frameworks:** .NET Framework, .NET 7 o superior, Entity Framework, Bootstrap, Tailwind 
-- [cite_start]**Frontend:** React (nivel intermedio - proyectos personales) 
-- [cite_start]**Bases de Datos:** SQL Server, MySQL, T-SQL 
-- [cite_start]**Herramientas y Otros:** Git, GitHub, PowerBI, Excel, Creación de APIs REST, LINQ 
+- **Frameworks:** .NET Framework, .NET 7 o superior, Entity Framework, Bootstrap, Tailwind 
+- Frontend:** React (nivel intermedio - proyectos personales) 
+- Bases de Datos:** SQL Server, MySQL, T-SQL 
+- Herramientas y Otros:** Git, GitHub, PowerBI, Excel, Creación de APIs REST, LINQ 
 
 ---
 
@@ -36,8 +36,8 @@ Soy un **Desarrollador Full Stack** apasionado por construir soluciones tecnoló
 
 **Sistema "Cañamar" (Proyecto Académico)**
 -   **Descripción:** Aplicación de escritorio para la cotización de maquinaria industrial.
--   [cite_start]**Tecnologías:** Java SE, SQL Server, NetBeans. 
--   [cite_start]**Rol:** Full Stack Developer. 
+-   **Tecnologías:** Java SE, SQL Server, NetBeans. 
+-   **Rol:** Full Stack Developer. 
 
 ---
 

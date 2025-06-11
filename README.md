@@ -18,7 +18,7 @@ Actualmente, trabajo como desarrollador en la Dirección General de Tecnologías
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,tailwind,react" />
     <br>
-    <img src="https://skillicons.dev/icons?i=sqlserver,mysql,git,github,powershell,vscode,visualstudio,postman" />
+    <img src="https://skillicons.dev/icons?i=ts,mysql,git,github,powershell,vscode,visualstudio,postman" />
   </a>
 </p>
 

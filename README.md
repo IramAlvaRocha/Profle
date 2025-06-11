@@ -1,2 +1,60 @@
-# Profle
-About me
+# ¡Hola! Soy Iram Alvarez Rocha 👋
+
+<img src="https://raw.githubusercontent.com/iram-rocha/iram-rocha/main/profile-picture.png" alt="Iram Alvarez Rocha" width="200" align="right"/>
+
+Soy un **Desarrollador Full Stack** apasionado por construir soluciones tecnológicas eficientes y robustas. [cite_start]Con más de 3 años de experiencia, me especializo en el ecosistema de **Microsoft**, principalmente con **.NET, C# y SQL Server**. 
+
+[cite_start]Actualmente, trabajo como desarrollador en la Dirección General de Tecnologías y Desarrollo Digital de la **Universidad Autónoma de Nuevo León**, donde desarrollo y doy soporte a sistemas clave para la institución.  [cite_start]Me motiva la resolución de problemas complejos, el aprendizaje continuo y la implementación de tecnologías emergentes en nuevos proyectos. 
+
+- 👨‍💻 **Desarrollador .NET** con experiencia en sistemas web.
+- 🎓 **Ingeniero Administrador de Sistemas** por la UANL.
+- [cite_start]🚀 Apasionado por la digitalización de procesos y la reducción de tiempos administrativos a través de la tecnología. 
+- [cite_start]🌱 Siempre aprendiendo, actualmente explorando más sobre React en proyectos personales. 
+- [cite_start]🇲🇽 Vivo en **Escobedo, Nuevo León, México**. 
+
+---
+
+### 🛠️ Mis Habilidades y Herramientas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,vb,js,html,css,bootstrap,tailwind,react" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=sqlserver,mysql,git,github,powershell,vscode,visualstudio,postman" />
+  </a>
+</p>
+
+-   [cite_start]**Lenguajes:** C#, VB.NET, JavaScript, HTML, CSS 
+-   [cite_start]**Frameworks:** .NET Framework, .NET 7+, Entity Framework 
+-   [cite_start]**Frontend:** React (intermedio), Bootstrap, Tailwind CSS 
+-   [cite_start]**Bases de Datos:** SQL Server, MySQL, T-SQL 
+-   [cite_start]**Herramientas y Otros:** Git, GitHub, Power BI, Creación de APIs REST, LINQ 
+
+---
+
+### 🏆 Proyectos Destacados
+
+**Sistema "Cañamar" (Proyecto Académico)**
+-   **Descripción:** Aplicación de escritorio para la cotización de maquinaria industrial.
+-   [cite_start]**Tecnologías:** Java SE, SQL Server, NetBeans. 
+-   [cite_start]**Rol:** Full Stack Developer. 
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iram-rocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iram-rocha&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 ¿Conectamos?
+
+¡Siempre estoy abierto a colaborar en proyectos interesantes o simplemente a charlar sobre tecnología!
+
+<p align="left">
+<a href="https://linkedin.com/in/iram-rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iram-rocha" height="30" width="40" /></a>
+<a href="mailto:iram.alvarezrch@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="iram.alvarezrch@gmail.com" height="30" width="40" /></a>
+</p>
